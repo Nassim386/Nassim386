@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="CSS.css" />
 	<body>
 		<h1>NASSIM BEN FREDJ</h1>
-		<p>Bonjour et bienvenue dans mon site web. Dans ce site, je vais vous présenter mon univers.</p>
+		<p>Bonjour et bienvenue dans mon profil. Je souhaite vous raconter mon histoire.</p>
 		<h2>Mon histoire</h2>
 		<p class="paragraphehistoire">Après seulement une année d’expérience dans le domaine RH, je souhaite donner un nouveau tournant à ma carrière. Passionné par l'univers des nouvelles technologies, j'ai toujours été sensibilisé à l'informatique depuis mon plus jeune âge. De plus, ayant un frère endéveloppement web full stack, j'ai pu observer et l'accompagner dans certaines tâches. Je suis désireux d’apprendre et je mettrai tout en œuvre pour me reconvertir professionnellement en développement web. Pour cela, je me forme en autodidacte à travers des forums et notammant des sites internet.</p>
 		<h2 class="pro">Mon expérience professionnel</h2>
