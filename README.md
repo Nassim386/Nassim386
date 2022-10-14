@@ -1,10 +1,8 @@
-
 <!DOCTYPE HTML>
 <html>
 <head>
 	<meta charset="utf-8" />
 	<link rel="stylesheet" href="CSS.css" />
-	<title>Nassim Ben Fredj CV</title>
 	<body>
 		<h1>NASSIM BEN FREDJ</h1>
 		<p>Bonjour et bienvenue dans mon site web. Dans ce site, je vais vous présenter mon univers.</p>
